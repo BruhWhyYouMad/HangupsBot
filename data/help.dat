@@ -1,0 +1,16 @@
+/hello,
+/sup,
+/commands,
+/meme,
+/suggestion <suggestion>,
+/roast,
+/newline,
+/ping,
+/pong,
+/money <SubCommand>
+  /money bal
+  /money beg
+  /money send <To>-<amount> ex. /money send Jeff-100
+  /money rob <person> ex. /money rob Empty_
+  /money depo <amount> ex. /money depo 100
+  /money withdraw <amount> ex. /money withdraw 100
